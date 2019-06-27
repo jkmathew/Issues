@@ -1,0 +1,6 @@
+framework module Pods_SwipeIssue {
+  umbrella header "Pods-SwipeIssue-umbrella.h"
+
+  export *
+  module * { export * }
+}
